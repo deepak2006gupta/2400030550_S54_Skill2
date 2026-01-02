@@ -111,6 +111,11 @@ public class App {
                     break;
 
                 case 6:
+                	System.out.println();
+                	System.out.println("|------------------------|");
+                	System.out.println("|      !Thankyou!        |");
+                	System.out.println("|------------------------|");
+                	System.out.println();
                     System.out.println("Exiting...");
                     break;
 
